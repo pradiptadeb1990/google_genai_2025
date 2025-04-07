@@ -1,0 +1,136 @@
+{
+  "genres": {
+    "lovecraftian": {
+      "key_elements": [
+        "cosmic horror",
+        "psychological dread",
+        "ancient mysteries",
+        "scientific discovery",
+        "sanity-threatening revelations"
+      ],
+      "vocabulary": [
+        "eldritch",
+        "cyclopean",
+        "non-euclidean",
+        "blasphemous",
+        "cosmic"
+      ],
+      "tone": "atmospheric dread",
+      "typical_themes": [
+        "forbidden knowledge",
+        "cosmic insignificance",
+        "ancient horrors"
+      ]
+    },
+    "cyberpunk": {
+      "key_elements": [
+        "high tech",
+        "low life",
+        "corporate power",
+        "human augmentation",
+        "digital realms"
+      ],
+      "vocabulary": [
+        "neural",
+        "cyber",
+        "matrix",
+        "chrome",
+        "datastream"
+      ],
+      "tone": "gritty futurism",
+      "typical_themes": [
+        "corporate control",
+        "technological dependence",
+        "human identity"
+      ]
+    },
+    "noir": {
+      "key_elements": [
+        "urban crime",
+        "moral ambiguity",
+        "corruption",
+        "femme fatales",
+        "private investigators"
+      ],
+      "vocabulary": [
+        "dame",
+        "gumshoe",
+        "copper",
+        "joint",
+        "heat"
+      ],
+      "tone": "cynical and world-weary",
+      "typical_themes": [
+        "betrayal",
+        "corruption",
+        "moral decay"
+      ]
+    },
+    "fairy_tale": {
+      "key_elements": [
+        "magic and enchantment",
+        "moral lessons",
+        "good versus evil",
+        "transformations",
+        "quests and trials"
+      ],
+      "vocabulary": [
+        "once upon a time",
+        "enchanted",
+        "magical",
+        "kingdom",
+        "spell"
+      ],
+      "tone": "magical and moralistic",
+      "typical_themes": [
+        "virtue rewarded",
+        "kindness triumphs",
+        "magical assistance"
+      ]
+    },
+    "whimsical": {
+      "key_elements": [
+        "playful absurdity",
+        "talking objects/animals",
+        "nonsensical situations",
+        "wordplay",
+        "imagination"
+      ],
+      "vocabulary": [
+        "curious",
+        "peculiar",
+        "topsy-turvy",
+        "remarkable",
+        "extraordinary"
+      ],
+      "tone": "light-hearted and imaginative",
+      "typical_themes": [
+        "adventure in ordinary things",
+        "breaking conventions",
+        "joyful discovery"
+      ]
+    },
+    "bedtime": {
+      "key_elements": [
+        "gentle pacing",
+        "cozy settings",
+        "natural world",
+        "peaceful resolution",
+        "comforting imagery"
+      ],
+      "vocabulary": [
+        "soft",
+        "quiet",
+        "gentle",
+        "sleepy",
+        "peaceful"
+      ],
+      "tone": "soothing and comforting",
+      "typical_themes": [
+        "day's end",
+        "friendship",
+        "simple pleasures"
+      ]
+    }
+  }
+}

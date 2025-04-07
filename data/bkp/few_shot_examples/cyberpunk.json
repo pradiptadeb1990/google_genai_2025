@@ -1,0 +1,12 @@
+{
+  "examples": [
+    {
+      "original": "A detective investigates a series of memory thefts in a big city.",
+      "styled": "Jensen flexed his chrome-plated fingers, neural interface humming as he jacked into the precinct's datastream. Another memory theft in Neo-Tokyo's lower levels – the third this week. The vic's synaptic patterns were scrambled, their consciousness fragmented across the neural net like broken glass. Somewhere in this neon-drenched sprawl, someone was trafficking in stolen dreams, ripping out people's most precious moments and selling them to the highest bidder. His black market contacts were buzzing about new tech, something that could bypass even military-grade neural firewalls."
+    },
+    {
+      "original": "A young hacker discovers a hidden message in a corporate database.",
+      "styled": "Zero-Day's fingers danced across the haptic keyboard, her cyberdeck overclocking as she dove deeper into Meridian Corp's darknet. The data stream was too clean, too perfect – definitely scrubbed by AI. But there, in the quantum noise between packets, she found it: a ghost protocol, written in obsolete machine code that predated the Net Crash. Her retinal display flashed red as corporate ICE detected the intrusion, but she was already in. The message unfolded in her neural feed like a digital origami, each layer revealing more about the megacorp's synthetic humanity program."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "examples": [
+    {
+      "original": "A young girl helps an elderly neighbor with her garden.",
+      "styled": "Once upon a time, in a small cottage at the edge of the enchanted forest, there lived a kind-hearted girl named Rose. One day, she discovered that her neighbor, a mysterious old woman who folk said was a wise witch, had a garden full of magical herbs that was withering away. Though others warned her to stay away, Rose's pure heart led her to help. Each morning, she would tend to the garden, singing sweet melodies that made the plants dance with joy. The old woman, touched by such kindness, taught Rose the secret language of flowers, and together they grew the most wondrous garden in all the kingdom."
+    },
+    {
+      "original": "Two siblings find a lost puppy in the park.",
+      "styled": "In a village blessed by golden sunlight, there lived a brother and sister named Tom and Lucy. One fateful day, while gathering chestnuts in the royal park, they heard a sorrowful whimper coming from behind an ancient oak tree. There they found a magical puppy with fur that sparkled like starlight. Though they searched far and wide for its owner, asking even the wise old owl who lived in the bell tower, no one claimed the precious creature. The puppy, they discovered, had been sent by the Fairy of Lost Things to bring joy to children whose hearts were pure enough to care for it."
+    }
+  ]
+}

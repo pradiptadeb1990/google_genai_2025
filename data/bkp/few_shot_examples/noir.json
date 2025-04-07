@@ -1,0 +1,12 @@
+{
+  "examples": [
+    {
+      "original": "A private investigator is hired to find a missing painting.",
+      "styled": "The dame who walked into my office at midnight was trouble wrapped in silk. She had the kind of face that could make a bishop kick a hole in a stained-glass window, but it was the painting she was missing that caught my attention. Five hundred grand in oils and canvas, vanished from a locked gallery on Sunset. The insurance company wasn't asking questions, the cops were looking the other way, and here I was, getting mixed up in something that smelled worse than the LA river at low tide. I lit a Lucky Strike and took the case – sometimes a man's gotta earn his coffin."
+    },
+    {
+      "original": "A journalist investigates corruption at city hall.",
+      "styled": "The rain fell like broken promises on the city hall steps as I flipped through Martinez's files. Three dead accountants in two months – all accidents, according to the boys in blue. But numbers don't lie, even when people do, and these numbers spelled out a story dirtier than a cop's conscience. Someone was bleeding the city dry, one crooked contract at a time, and the mayor's smile had too many teeth when he told me to drop it. I've been in this game long enough to know when I'm poking a hornets' nest with a short stick."
+    }
+  ]
+}
